@@ -2,9 +2,9 @@
 #========================================================================#
 # Safe Multi-Directory, Multi-Pattern Deletion Script                    #
 #------------------------------------------------------------------------#
-# Author: Narender Kumar (revised by ChatGPT, July 2025)                 #
+# Author: Narender Kumar                                                 #
 #------------------------------------------------------------------------#
-# This script deletes multiple files/patterns from multiple directories   #
+# This script deletes multiple files/patterns from multiple directories  #
 # in one go, after a single final confirmation.                          #
 #========================================================================#
 
