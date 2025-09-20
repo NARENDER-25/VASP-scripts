@@ -1,8 +1,7 @@
 #  delete_vasp_large_files.sh
 A **safe and interactive Bash script** to delete multiple file patterns across various directories and/or subdirectories.
 
-## 🛠️ Features
-
+## Features
 - Accepts **multiple directories** as input
 - Accepts **multiple file name patterns** (e.g., `CHG*`, `*.xml`, `OUTCAR`)
 - Option to **include or exclude subdirectories**
@@ -16,5 +15,5 @@ A **safe and interactive Bash script** to delete multiple file patterns across v
 ### 1. Clone the repository or download the script
 
 ```bash
-bash delete_vasp_large_files.sh
+bash delete_vasp_files.sh
 > ⚠️ Use with caution. This script **permanently deletes files** after your confirmation.
