@@ -12,15 +12,14 @@ A **safe and interactive Bash script** to delete multiple file patterns across v
 
 ## Getting Started
 
-### 1. Clone the repository or download the script
+Clone the repository or download the script
 
 ```bash
 bash delete_vasp_files.sh
 > ⚠️ Use with caution. This script **permanently deletes files** after your confirmation.
 
----
-
-## 2. Exciton Binding Energy Calculator
+**
+## 2. Exciton Binding Energy Calculator**
 
 This script calculates the **exciton binding energy (E<sub>exb</sub>)**:
 ### What It Does
