@@ -2,7 +2,7 @@
 #========================================================================#
 # Safe Multi-Directory, Multi-Pattern Deletion Script                    #
 #------------------------------------------------------------------------#
-# Author: Narender Kumar                                                 #
+# Author: Narender Kumar, United Arab Emirates University                #
 #------------------------------------------------------------------------#
 # This script deletes multiple files/patterns from multiple directories  #
 # in one go, after a single final confirmation.                          #
